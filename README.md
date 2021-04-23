@@ -1,5 +1,5 @@
 # Hola-mundo
 Prueba#1
-Me lla mo daniel
-Soy estudieante de grado 11
-
+Me llamo daniel 
+Soy estudiante de grado undecimo
+Quiero aprender a progamar 
